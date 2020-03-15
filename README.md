@@ -1,2 +1,2 @@
 # Scientific-Calculator
-This is the assignment #2 for Elective 3
+This is the assignment #1 for Elective 3
